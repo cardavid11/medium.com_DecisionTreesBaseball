@@ -16,3 +16,5 @@ The power of community is mighty! If you have suggestions or find issues, feel f
 
 ##  Note: 
 This project and the associated article are meant for educational and entertainment purposes only. The dataset is whimsically crafted and does not represent real-world baseball statistics.
+
+## Happy Analyzing! ⚾🌲
